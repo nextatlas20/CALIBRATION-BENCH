@@ -1,0 +1,6 @@
+instrument_id,lab,status,accepted_count,rejected_count,mean_offset_celsius,latest_accepted_reading
+GH-01,North,CALIBRATED,2,0,0.00,CAL-002
+GH-02,North,CALIBRATED,2,0,0.08,CAL-004
+GH-03,South,CALIBRATED,3,0,0.15,CAL-007
+GH-04,South,CALIBRATED,1,1,0.04,CAL-009
+GH-05,East,INSUFFICIENT,2,0,0.20,CAL-011
