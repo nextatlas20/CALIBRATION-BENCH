@@ -1,0 +1,6 @@
+instrument_id,lab,required_readings,tolerance_celsius
+GH-01,North,2,0.20
+GH-02,North,2,0.10
+GH-03,South,3,0.15
+GH-04,South,1,0.05
+GH-05,East,3,0.25
