@@ -1,0 +1,2 @@
+instrument_id,status,accepted_count,required_readings,mean_offset_celsius
+GH-05,INSUFFICIENT,2,3,0.20
